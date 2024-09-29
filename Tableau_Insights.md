@@ -22,7 +22,7 @@ These categories have received the highest number of ratings, indicating strong 
 -	Like so, we can explore the top selling subcategory in each price range with average ratings. We can also see the least selling sub category
 -	This graph has detailed information about each category, price and ratings in a detailed way.
 
-## Graph 4 – Popular Subcategories:
+### Graph 4 – Popular Subcategories:
 -	In this we cans see the popular subcategory, being electronics, headphones and ca,eras.
 -	In the next graph we can see only the top 6.
 
