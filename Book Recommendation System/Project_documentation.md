@@ -83,16 +83,6 @@ Throughout the project we aimed to follow a scrum still software development cyc
 3. 15/08 - Data has been gathered from Kaggle API and some topic modelling tested on data. Need to restrict dataset to make more manageable.
 4. 22/08 - Completion and review of work done so far: sentiment analysis, UI, compliation of modules and files etc., and discussion regarding our testing strategy.
 
-**Team Member Roles:**
-
- - Srivatsala: Backend developer (handled database interactions and interactions with API)
-
- - Wing Hang: Data Visualisation (used the data from the NLP to create visualisations which emphasise the relationships between data)
-
- - Swarna: Frontend Developer (oversaw the user interface), handled NLP in sentiment analysis
-
- - Eva: Project Manager (organised meetings and the project timeline), handled NLP in topic modelling
-
 ### Tools and libraries
 **Programming Languages:**
 
@@ -179,3 +169,5 @@ Ran testing with pytest and only key issue was with case where no books could be
 
 ## Conclusion
 The book recommendation system was successfully implemented with some helpful and interesting data surrounding the reviews and sentiments. To further improve on this, more detailed information could be extracted with density of keywords and subgenres etc., A more efficient way of handling such a large dataset could also be sought but due to the short timeframe in which this project was completed we have managed well with the methods we have used.
+
+Demo video is attached in teh same folder for reference.
